@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - print "with proper grammar, but the outcome is
- *  		a piece of art" followed by a new line
- * Return always 0.
+ * a piece of art" followed by a new line
+ * Return 0.
  */
 
 int main(void)

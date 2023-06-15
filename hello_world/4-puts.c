@@ -1,6 +1,5 @@
 /*
  * File: 4-puts.c
- * Auth: Guillermo Venero
  */
 #include <stdio.h>
 /**
